@@ -53,7 +53,7 @@ The system is implemented in C/C++ using the OpenSSL library (without using the 
 
 ### Building the Project
 ```bash
-git clone https://github.com/contisimone99/bbs-system.git
+git clone https://github.com/contisimone99/Bulletin-Board-System.git
 cd bbs-system
 make
 ```
